@@ -1,0 +1,8 @@
+QDarkStyle==2.8.1
+pandas==1.0.1
+pymysql==0.9.3
+PyQt5==5.14.2
+pyqtgraph==0.10.0
+python_crontab==2.5.1
+PyMySQL==0.9.3
+PyQtWebEngine==5.14.0
